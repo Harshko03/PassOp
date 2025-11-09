@@ -9,7 +9,7 @@ const Footer = ()=>{
 <span className='text-green-500'>&lt;</span>
 <span>Pass</span><span className='text-green-500'>OP/&gt;</span>
 </div>
-<div>Created with love by @hk</div>
+<div>Created to Store by @hk</div>
 
         </div>
     )
